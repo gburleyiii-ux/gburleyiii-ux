@@ -1,4 +1,4 @@
-# Gregory Burley III
+# Grant Burley III
 
 AI product engineer building production web apps, automation systems, and music-tech platforms.
 
