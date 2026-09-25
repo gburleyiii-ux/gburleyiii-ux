@@ -1,6 +1,6 @@
 # Grant Burley III
 
-**AI Solutions Architect & AI Governance Engineer** — I build the control and governance layer that lets autonomous AI systems run safely in regulated, cleared, and federal environments.
+**Applied AI Architect & AI Governance Engineer** — I translate mission priorities into secure AI architectures, governed pilots, and practical paths to production in regulated, cleared, and federal environments.
 
 Active **Secret clearance** (transferable) · 10+ years securing U.S. DoD enterprise systems · now focused on agentic AI, LLMOps, and AI governance.
 
@@ -19,6 +19,8 @@ Active **Secret clearance** (transferable) · 10+ years securing U.S. DoD enterp
 
 ## What I Bring
 
+- **Use-case strategy & technical account leadership**: discovery, prioritization, adoption roadmaps, success measures, blockers, and executive-to-engineer communication
+- **Applied AI architecture**: models, applications, data integration, retrieval, identity, security, privacy, governance, evaluation, and deployment
 - Secure **agentic AI infrastructure** — not just prompting models
 - **AI governance & risk**: NIST AI RMF, FedRAMP/RMF, policy-as-code, audit evidence
 - **Identity & access**: RBAC, OIDC/JWKS, least-privilege, PKI/PKE
@@ -26,12 +28,16 @@ Active **Secret clearance** (transferable) · 10+ years securing U.S. DoD enterp
 - **Cloud & DevSecOps**: AWS (incl. GovCloud patterns), containers, CI/CD
 - 10+ years of **cleared DoD enterprise systems** experience
 
+## How I Work
+
+I move between mission owners, executives, security teams, and hands-on engineers to turn an ambiguous need into a bounded use case, an explainable architecture, a measurable pilot, and a documented operational handoff. GovernPilot is the public proof-of-work for that approach; it does not represent a production authorization or customer deployment.
+
 ## Stack
 
 TypeScript · React · Node.js · Python · AWS / GovCloud · OPA/Rego · OIDC/JWKS · NIST AI RMF · LLMOps · Agentic AI · DevSecOps
 
 ## Open To
 
-**100% remote** roles in AI solutions architecture, AI governance & security, LLMOps, and cleared/federal AI modernization.
+Applied AI architecture, AI governance and security, LLMOps, and federal AI modernization roles across the Baltimore/Washington, D.C. region. Open to hybrid work in Washington, D.C.
 
 📍 Baltimore, MD / DC metro · 📧 gburleyiii@gmail.com
