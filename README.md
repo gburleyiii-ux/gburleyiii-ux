@@ -1,6 +1,6 @@
 # Grant Burley III
 
-**AI Solutions Architect & AI Governance Engineer** — I turn complex mission needs into secure AI systems, governed pilots, and practical paths to production in regulated, cleared, and federal environments.
+Founder of **Booman Systems LLC**, building practical software, automation, and digital products across business, media, and regulated environments.
 
 Active **Secret clearance** (transferable) · 10+ years securing U.S. DoD enterprise systems · now focused on agentic AI, LLMOps, and AI governance.
 
