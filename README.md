@@ -1,6 +1,6 @@
 # Grant Burley III
 
-**Applied AI Architect & AI Governance Engineer** — I translate mission priorities into secure AI architectures, governed pilots, and practical paths to production in regulated, cleared, and federal environments.
+**AI Solutions Architect & AI Governance Engineer** — I turn complex mission needs into secure AI systems, governed pilots, and practical paths to production in regulated, cleared, and federal environments.
 
 Active **Secret clearance** (transferable) · 10+ years securing U.S. DoD enterprise systems · now focused on agentic AI, LLMOps, and AI governance.
 
@@ -19,7 +19,7 @@ Active **Secret clearance** (transferable) · 10+ years securing U.S. DoD enterp
 
 ## What I Bring
 
-- **Use-case strategy & technical account leadership**: discovery, prioritization, adoption roadmaps, success measures, blockers, and executive-to-engineer communication
+- **Solution discovery & delivery**: prioritization, adoption roadmaps, success measures, blockers, and executive-to-engineer communication
 - **Applied AI architecture**: models, applications, data integration, retrieval, identity, security, privacy, governance, evaluation, and deployment
 - Secure **agentic AI infrastructure** — not just prompting models
 - **AI governance & risk**: NIST AI RMF, FedRAMP/RMF, policy-as-code, audit evidence
